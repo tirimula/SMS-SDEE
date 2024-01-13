@@ -1,0 +1,269 @@
+TY  - JOUR
+AU  - Jha, Mayank
+AU  - Jha, Richa
+PY  - 2020
+DA  - 2020-03-06T00:00:00Z
+DO  - 10.1109/ICACCS48705.2020.9074165
+AB  - Management of project software starts with a collection of activities referred to as project planning procedure. A company's team must decide the work to be done, the resources to be reorganized and a time from beginning of the calculation until project starts. Following completion of these activities, the program team will set up a set of projects that will assign program development tasks, identify key milestones, identify responsibilities for each task and identify related dependencies among participants that may have a significant impact on progress. There is usually no full precise estimation process, but in this research we have tried to find the best programming methods to find the best estimate of programming. Effort estimation is one of greatest objection of STLC. It is platform for planning, estimating and preparing effort for project. This paper demonstrates model with a purpose of depicting bias variation and an accuracy of the technology of an enterprise test attempt estimates concluding the function of Cobb-Douglas (CDF), Neuro fuzzy approach, and Genetic methods. The purpose of this review is to present an analysis of principles to minimize software costs and to explain how these concepts are applied to general system divisions. We deliver simple algorithms namely-Cobb Douglas, Genetic Algorithms, and Adaptive Neuro Fuzzy Approach to decide which algorithm is best suited to finding the best estimates as accurate as possible. The best outcomes they have been found in Neuro Fuzzy Approach. The Neuro Fuzzy has highest accuracy to be found, but the Genetic Algorithm was better than Fuzzy Logic, the worst compared to Cobb Douglas and Genetic Algorithms.
+TI  - Comparing the Effort Estimated By Different Models
+ID  - Jha2020
+C1  - LitmapsId 67082045
+ER  - 
+TY  - JOUR
+AU  - Chouchen, Moataz
+AU  - Olongo, Jefferson
+AU  - Ouni, Ali
+AU  - Mkaouer, Mohamed Wiem
+PY  - 2021
+DA  - 2021-09-30T00:00:00Z
+DO  - 10.26226/MORRESSIER.613B5419842293C031B5B63C
+AB  - Context. Modern Code Review (MCR) is being adopted in both open source and commercial projects as a common practice. MCR is a widely acknowledged quality assurance practice that allows early detection of defects as well as poor coding practices. It also brings several other benefits such as knowledge sharing, team awareness, and collaboration. Problem. In practice, code reviews can experience significant delays to be completed due to various socio-technical factors which can affect the project quality and cost. For a successful review process, peer reviewers should perform their review tasks in a timely manner while providing relevant feedback about the code change being reviewed. However, there is a lack of tool support to help developers estimating the time required to complete a code review prior to accepting or declining a review request. Objective. Our objective is to build and validate an effective approach to predict the code review completion time in the context of MCR and help developers better manage and prioritize their code review tasks. Method. We formulate the prediction of the code review completion time as a learning problem. In particular, we propose a framework based on regression models to (i) effectively estimate the code review completion time, and (ii) understand the main factors influencing code review completion time.
+JO  - arXiv.org
+TI  - Predicting Code Review Completion Time in Modern Code Review
+ID  - Chouchen2021
+C1  - LitmapsId 58729452
+ER  - 
+TY  - JOUR
+AU  - Cobb, Helen G.
+AU  - Grefenstette, J.
+PY  - 1993
+DA  - 1993-06-01T00:00:00Z
+DO  - 10.21236/ADA294075
+AB  - Abstract : In this paper, we explore the use of alternative mutation strategies as a means of increasing diversity so that the GA can track the optimum of a changing environment. This paper contrasts three different strategies: the Standard GA using a constant level of mutation, a mechanism called Random Immigrants, that replaces part of the population each generation with randomly generated values, and an adaptive mechanism called Triggered Hypermutation, that increases the mutation rate whenever there is a degradation in the performance of the time-averaged best performance. The study examines each of these strategies in the context of several kinds of environmental change, including linear translation of the optimum, random movement of the optimum, and oscillation between two significantly different landscapes. These first results should lead to the development of a single mechanism that can work well in both stationary and nonstationary environments. (AN)
+JO  - ICGA
+TI  - Genetic Algorithms for Tracking Changing Environments
+ID  - Cobb1993
+C1  - LitmapsId 208712484
+ER  - 
+TY  - JOUR
+AU  - Su, Shaosen
+AU  - Li, Wei
+AU  - Li, Yongsheng
+AU  - Garg, Akhil
+AU  - Gao, Liang
+AU  - Zhou, Quan
+PY  - 2021
+DA  - 2021-09-01T00:00:00Z
+DO  - 10.1016/J.APPLTHERMALENG.2021.117235
+AB  - Abstract   Lithium batteries are commonly used as the primary power storage unit for electric vehicles, and their performance is sensitive to temperature. Thus, the battery thermal management system is crucially needed to allow the EVs to work safely and efficiently. This paper mainly focuses on the performance analysis and design optimization of the battery thermal management system with a U-shaped cooling channel. A Computational fluid dynamics model of a battery thermal management system is built to study the battery temperature distribution and pressure distribution. Through the establishment of the genetic programming model, sensitivity analysis and parameter interaction analysis are carried out to analyze the influence of cooling plate thickness, cooling plate wall thickness, inlet coolant temperature and flow velocity on the comprehensive performance of the battery thermal management system. A new surrogate-assisted multi-objective optimization scheme is proposed by introducing an integrated AI system that includes a surrogate battery model built with genetic programming (GP) and a design optimizer driven by the second-generation non-dominated sorting genetic algorithm (NSGA-II). Results show that the inlet coolant temperature has the most significant influence on the rise of battery temperature (59.87%) but has no influence on the pressure drop. The structural parameters of the cooling plate and the velocity of the inlet coolant have apparent effects on the uniformity of the battery temperature distribution and the pressure drop. The battery thermal management system achieves an ideal comprehensive performance when the thickness of the cooling plate is 4.50 mm, the thickness of the cooling plate wall is 1.49 mm, the inlet coolant temperature is 298.15 K, and the inlet coolant velocity is 0.29 m/s. Under such optimized parameter settings, the max temperature rise of the battery reduces from 7.72 K to 7.69 K, the standard deviation of the temperature distribution 2.54 K (a drop of 0.02 K), and the pressure drop decrease from 1022.1 Pa to 436.43 Pa (decrease by 57.3%). Such results have guiding significance for the design of the battery thermal management system with a U-shaped channel and the application of genetic programming in system performance analysis and optimization.
+JO  - Applied Thermal Engineering
+TI  - Multi-objective design optimization of battery thermal management system for electric vehicles
+ID  - Su2021
+C1  - LitmapsId 204341549
+ER  - 
+TY  - JOUR
+AU  - Ardiansyah, A.
+AU  - Ferdiana, R.
+AU  - Permanasari, A. E.
+PY  - 2022
+DA  - 2022-07-31T00:00:00Z
+DO  - 10.26555/IJAIN.V8I2.811
+AB  - Among algorithmic-based frameworks for software development effort estimation, Use Case Points I s one of the most used. Use Case Points is a well-known estimation framework designed mainly for object-oriented projects. Use Case Points uses the use case complexity weight as its essential parameter. The parameter is calculated with the number of actors and transactions of the use case. Nevertheless, use case complexity weight is discontinuous, which can sometimes result in inaccurate measurements and abrupt classification of the use case. The objective of this work is to investigate the potential of integrating particle swarm optimization (PSO) with the Use Case Points framework. The optimizer algorithm is utilized to optimize the modified use case complexity weight parameter. We designed and conducted an experiment based on real-life data set from three software houses. The proposed model’s accuracy and performance evaluation metric is compared with other published results, which are standardized accuracy, effect size, mean balanced residual error, mean inverted balanced residual error, and mean absolute error. Moreover, the existing models as the benchmark are polynomial regression, multiple linear regression, weighted case-based reasoning with (PSO), fuzzy use case points, and standard Use Case Points. Experimental results show that the proposed model generates the best value of standardized accuracy of 99.27% and an effect size of 1.15 over the benchmark models. The results of our study are promising for researchers and practitioners because the proposed model is actually estimating, not guessing, and generating meaningful estimation with statistically and practically significant.
+JO  - International Journal of Advances in Intelligent Informatics
+TI  - Optimizing complexity weight parameter of use case points estimation using particle swarm optimization
+ID  - Ardiansyah2022
+C1  - LitmapsId 252278429
+ER  - 
+TY  - JOUR
+AU  - Faber, Michael
+AU  - Happe, Jens
+PY  - 2012
+DA  - 2012-04-22T00:00:00Z
+DO  - 10.1145/2188286.2188295
+AB  - Measurement-based approaches to software performance engineering apply analysis methods (e.g., statistical inference or machine learning) on raw measurement data with the goal to build a mathematical model describing the performance-relevant behavior of a system under test (SUT). The main challenge for such approaches is to find a reasonable trade-off between minimizing the amount of necessary measurement data used to build the model and maximizing the model's accuracy. Most existing methods require prior knowledge about parameter dependencies or their models are limited to only linear correlations. In this paper, we investigate the applicability of genetic programming (GP) to derive a mathematical equation expressing the performance behavior of the measured system (software performance curve). We systematically optimized the parameters of the GP algorithm to derive accurate software performance curves and applied techniques to prevent overfitting. We conducted an evaluation with a representative MySQL database system. The results clearly show that the GP algorithm outperforms other analysis techniques like inverse distance weighting (IDW) and multivariate adaptive regression splines (MARS) in terms of model accuracy.
+TI  - Systematic adoption of genetic programming for deriving software performance curves
+ID  - Faber2012
+C1  - LitmapsId 77188347
+ER  - 
+TY  - JOUR
+AU  - Rastogi, H.
+AU  - Dhankhar, Swati
+AU  - Kakkar, Misha
+PY  - 2014
+DA  - 2014-11-10T00:00:00Z
+DO  - 10.1109/CONFLUENCE.2014.6949367
+AB  - A severe problem that impacts the software project is inaccurate estimation of the effort. Estimation of the software development effort remains an intricate problem. The complexity of the software and its scope are increasing alarmingly which attracts many researchers. Past the decades numerous techniques have been introduced and implemented. Many of them have given good results with acceptable error rates. In this paper, a review of general techniques and models regarding effort estimation has been done. Comparison of several approaches is subsumed and the technique that produces the most accurate result serves as a measure of selection. Every technique has its own merits and pitfalls. But there is no single technique that can do away with all the shortcomings and can be globally accepted, so hybridization of several approaches can be seen as an alternative to produce realistic estimates.
+JO  - 2014 5th International Conference - Confluence The Next Generation Information Technology Summit (Confluence)
+TI  - A survey on software effort estimation techniques
+ID  - Rastogi2014
+C1  - LitmapsId 153409364
+ER  - 
+TY  - JOUR
+AU  - Kumar, P. Suresh
+AU  - Behera, Himansu Sekhar
+PY  - 2020
+DA  - 2020-01-01T00:00:00Z
+DO  - 10.1007/978-981-15-2449-3_14
+AB  - Software companies develop various softwares at the same time. It is very critical task that is to be managed by project managers. Completion of a project is purely dependent on various parameters such as time, cost and staff. By these parameters, project planning will be done by the project managers. Software effort estimation is a fundamental and emerging aspect for software companies in developing a software. If we estimate the effort properly, it will control the project cost as well as time. This paper is presented by comparing various models such as KNN, SVM, NN, RF and back propagation algorithm using feed forward neural network by using Orange data mining tool. The proposed models are evaluated using COCOMO’81 dataset having 63 projects and Desharnais dataset having 81 projects. Estimation results are evident that the back propagation-based approach is a suitable model as compared to the remaining considered approach.
+JO  - Advances in intelligent systems and computing
+TI  - Estimating Software Effort Using Neural Network: An Experimental Investigation
+ID  - Kumar2020
+C1  - LitmapsId 31983639
+ER  - 
+TY  - JOUR
+AU  - Rubinić, Emil
+AU  - Mausa, Goran
+AU  - Grbac, Tihana Galinac
+PY  - 2015
+DA  - 2015-09-05T00:00:00Z
+DO  - 10.1007/978-3-319-22183-0_33
+AB  - Software Defect Prediction is based on datasets that are imbalanced and therefore limit the use of machine learning based classification. Ensembles of genetic classifiers indicate good performance and provide a promising solution to this problem. To further examine this solution, we performed additional experiments in that direction. In this paper we report preliminary results obtained by using a Matlab variant of NSGA-II in combination with four simple voting strategies on three subsequent releases of the Eclipse Plug-in Development Environment (PDE) project. Preliminary results indicate that the voting procedure might influence software defect prediction performances.
+JO  - Lecture Notes in Computer Science
+TI  - Software Defect Classification with a Variant of NSGA-II and Simple Voting Strategies
+ID  - Rubinić2015
+C1  - LitmapsId 109497050
+ER  - 
+TY  - JOUR
+AU  - Dalal, Surjeet
+AU  - Dahiya, Neeraj
+AU  - Jaglan, Vivek
+PY  - 2018
+DA  - 2018-01-01T00:00:00Z
+DO  - 10.1007/978-981-10-6872-0_32
+AB  - The software effort estimation phase is especially critical in the software development phase. This phase is principally oriented on manipulation of the values of the cost drivers and scale factors. Also, most of the models depend on the size of the project, and a diminutive alteration in the size directs to the in proportion alterations in the effort. Miscalculations of the cost drivers have even additional ear-splitting data as a result too. In this paper, the approach of generalized reduced gradient (GRG) nonlinear optimization with best-fit analysis has been applied to tune the COCOMO model cost drivers so that level of accuracy can be achieved. This proposed methodology has been observed more efficiently in providing the software effort estimation through the help of minimizing MRE value. We have applied this methodology on NASA 63 data sets. We have shown the comparison between the estimated MRE and actual MRE of the data sets. We have also exposed the evaluation between the estimated MMRE and actual MMRE.
+JO  - Advances in intelligent systems and computing
+TI  - Efficient Tuning of COCOMO Model Cost Drivers Through Generalized Reduced Gradient (GRG) Nonlinear Optimization with Best-Fit Analysis
+ID  - Dalal2018
+C1  - LitmapsId 120256884
+ER  - 
+TY  - JOUR
+AU  - Shepperd, M.
+AU  - Schofield, C.
+PY  - 1997
+DA  - 1997-11-01T00:00:00Z
+DO  - 10.1109/32.637387
+AB  - Accurate project effort prediction is an important goal for the software engineering community. To date most work has focused upon building algorithmic models of effort, for example COCOMO. These can be calibrated to local environments. We describe an alternative approach to estimation based upon the use of analogies. The underlying principle is to characterize projects in terms of features (for example, the number of interfaces, the development method or the size of the functional requirements document). Completed projects are stored and then the problem becomes one of finding the most similar projects to the one for which a prediction is required. Similarity is defined as Euclidean distance in n-dimensional space where n is the number of project features. Each dimension is standardized so all dimensions have equal weight. The known effort values of the nearest neighbors to the new project are then used as the basis for the prediction. The process is automated using a PC-based tool known as ANGEL. The method is validated on nine different industrial datasets (a total of 275 projects) and in all cases analogy outperforms algorithmic models based upon stepwise regression. From this work we argue that estimation by analogy is a viable technique that, at the very least, can be used by project managers to complement current estimation techniques.
+JO  - IEEE Trans. Software Eng.
+TI  - Estimating Software Project Effort Using Analogies
+ID  - Shepperd1997
+C1  - LitmapsId 8561324
+ER  - 
+TY  - JOUR
+AU  - Sarro, Federica
+AU  - Petrozziello, Alessio
+AU  - Harman, M.
+PY  - 2016
+DA  - 2016-05-14T00:00:00Z
+DO  - 10.1145/2884781.2884830
+AB  - We introduce a bi-objective effort estimation algorithm that combines Confidence Interval Analysis and assessment of Mean Absolute Error. We evaluate our proposed algorithm on three different alternative formulations, baseline comparators and current state-of-the-art effort estimators applied to five real-world datasets from the PROMISE repository, involving 724 different software projects in total. The results reveal that our algorithm outperforms the baseline, state-of-the-art and all three alternative formulations, statistically significantly (p
+JO  - 2016 IEEE/ACM 38th International Conference on Software Engineering (ICSE)
+TI  - Multi-objective Software Effort Estimation
+ID  - Sarro2016
+C1  - LitmapsId 132819153
+ER  - 
+TY  - BOOK
+AU  - Conte, S. D.
+AU  - Dunsmore, H. E.
+AU  - Shen, V. Y.
+PY  - 1986
+DA  - 1986-05-01T00:00:00Z
+TI  - Software engineering metrics and models
+ID  - Conte1986
+C1  - LitmapsId 168041993
+ER  - 
+TY  - JOUR
+AU  - Burgess, Colin J.
+AU  - Lefley, Martin
+PY  - 2001
+DA  - 2001-12-15T00:00:00Z
+DO  - 10.1016/S0950-5849(01)00192-6
+AB  - Abstract   Accurate software effort estimation is an important part of the software process. Originally, estimation was performed using only human expertise, but more recently, attention has turned to a variety of machine learning (ML) methods. This paper attempts to evaluate critically the potential of genetic programming (GP) in software effort estimation when compared with previously published approaches, in terms of accuracy and ease of use. The comparison is based on the well-known Desharnais data set of 81 software projects derived from a Canadian software house in the late 1980s. The input variables are restricted to those available from the specification stage and significant effort is put into the GP and all of the other solution strategies to offer a realistic and fair comparison. There is evidence that GP can offer significant improvements in accuracy but this depends on the measure and interpretation of accuracy used. GP has the potential to be a valid additional tool for software effort estimation but set up and running effort is high and interpretation difficult, as it is for any complex meta-heuristic technique.
+JO  - Information & Software Technology
+TI  - Can genetic programming improve software effort estimation? A comparative evaluation
+ID  - Burgess2001
+C1  - LitmapsId 89767011
+ER  - 
+TY  - BOOK
+AU  - Boehm, Barry
+PY  - 2002
+DA  - 2002-01-01T00:00:00Z
+AB  - This paper summarizes the current state of the art and recent trends in software engineering economics. It provides an overview of economic analysis techniques and their applicability to software engineering and management. It surveys the field of software cost estimation, including the major estimation techniques available, the state of the art in algorithmic cost models, and the outstanding research issues in software cost estimation.
+TI  - Software engineering economics
+ID  - Boehm2002
+C1  - LitmapsId 7435797
+ER  - 
+TY  - JOUR
+AU  - Ferrucci, Filomena
+AU  - Gravino, Carmine
+AU  - Oliveto, Rocco
+AU  - Sarro, Federica
+PY  - 2009
+DA  - 2009-11-09T00:00:00Z
+DO  - 10.1007/978-3-642-05415-0_22
+AB  - The use of optimization techniques has been recently proposed to build models for software development effort estimation. In particular, some studies have been carried out using search-based techniques, such as genetic programming, and the results reported seem to be promising. At the best of our knowledge nobody has analyzed the effectiveness of Tabu search for development effort estimation. Tabu search is a meta-heuristic approach successful used to address several optimization problems. In this paper we report on an empirical analysis carried out exploiting Tabu Search on a publicity available dataset, i.e., Desharnais dataset. The achieved results show that Tabu Search provides estimates comparable with those achieved with some widely used estimation techniques.
+JO  - Lecture Notes in Computer Science
+TI  - Using Tabu Search to Estimate Software Development Effort
+ID  - Ferrucci2009
+C1  - LitmapsId 82257718
+ER  - 
+TY  - JOUR
+AU  - Corazza, Anna
+AU  - Di Martino, S.
+AU  - Ferrucci, Filomena
+AU  - Gravino, Carmine
+AU  - Sarro, Federica
+AU  - Mendes, Emilia
+PY  - 2013
+DA  - 2013-06-01T00:00:00Z
+DO  - 10.1007/S10664-011-9187-3
+AB  - Recent studies have reported that Support Vector Regression (SVR) has the potential as a technique for software development effort estimation. However, its prediction accuracy is heavily influenced by the setting of parameters that needs to be done when employing it. No general guidelines are available to select these parameters, whose choice also depends on the characteristics of the dataset being used. This motivated the work described in (Corazza et al. 2010), extended herein. In order to automatically select suitable SVR parameters we proposed an approach based on the use of the meta-heuristics Tabu Search (TS). We designed TS to search for the parameters of both the support vector algorithm and of the employed kernel function, namely RBF. We empirically assessed the effectiveness of the approach using different types of datasets (single and cross-company datasets, Web and not Web projects) from the PROMISE repository and from the Tukutuku database. A total of 21 datasets were employed to perform a 10-fold or a leave-one-out cross-validation, depending on the size of the dataset. Several benchmarks were taken into account to assess both the effectiveness of TS to set SVR parameters and the prediction accuracy of the proposed approach with respect to widely used effort estimation techniques. The use of TS allowed us to automatically obtain suitable parameters’ choices required to run SVR. Moreover, the combination of TS and SVR significantly outperformed all the other techniques. The proposed approach represents a suitable technique for software development effort estimation.
+JO  - Empirical Software Engineering
+TI  - Using tabu search to configure support vector regression for effort estimation
+ID  - Corazza2013
+C1  - LitmapsId 25652175
+ER  - 
+TY  - JOUR
+AU  - Ferrucci, F.
+AU  - Gravino, C.
+AU  - Oliveto, R.
+AU  - Sarro, Federica
+AU  - Mendes, E.
+PY  - 2010
+DA  - 2010-09-01T00:00:00Z
+DO  - 10.1109/SEAA.2010.59
+AB  - Tabu Search is a meta-heuristic approach successfully used to address optimization problems in several contexts. This paper reports the results of an empirical study carried out to investigate the effectiveness of Tabu Search in estimating Web application development effort. The dataset employed in this investigation is part of the Tukutuku database. This database has been used in several studies to assess the effectiveness of various effort estimation techniques, such as Linear Regression and Case-Based Reasoning. Our results are encouraging given that Tabu Search outperformed all the other estimation techniques against which it has been compared.
+JO  - 2010 36th EUROMICRO Conference on Software Engineering and Advanced Applications
+TI  - Investigating Tabu Search for Web Effort Estimation
+ID  - Ferrucci2010
+C1  - LitmapsId 32893787
+ER  - 
+TY  - JOUR
+AU  - Sarro, Federica
+AU  - Petrozziello, Alessio
+PY  - 2018
+DA  - 2018-09-17T00:00:00Z
+DO  - 10.1145/3234940
+AB  - Software effort estimation studies still suffer from discordant empirical results (i.e., conclusion instability) mainly due to the lack of rigorous benchmarking methods. So far only one baseline model, namely, Automatically Transformed Linear Model (ATLM), has been proposed yet it has not been extensively assessed. In this article, we propose a novel method based on Linear Programming (dubbed as Linear Programming for Effort Estimation, LP4EE) and carry out a thorough empirical study to evaluate the effectiveness of both LP4EE and ATLM for benchmarking widely used effort estimation techniques. The results of our study confirm the need to benchmark every other proposal against accurate and robust baselines. They also reveal that LP4EE is more accurate than ATLM for 17% of the experiments and more robust than ATLM against different data splits and cross-validation methods for 44% of the cases. These results suggest that using LP4EE as a baseline can help reduce conclusion instability. We make publicly available an open-source implementation of LP4EE in order to facilitate its adoption in future studies.
+JO  - ACM Trans. Softw. Eng. Methodol.
+TI  - Linear Programming as a Baseline for Software Effort Estimation
+ID  - Sarro2018
+C1  - LitmapsId 42216442
+ER  - 
+TY  - JOUR
+AU  - Kitchenham, B.
+AU  - Pickard, L.
+AU  - MacDonell, Stephen G.
+AU  - Shepperd, M.
+PY  - 2001
+DA  - 2001-06-01T00:00:00Z
+DO  - 10.1049/IP-SEN:20010506
+AB  - Provides the software estimation research community with a better understanding of the meaning of, and relationship between, two statistics that are often used to assess the accuracy of predictive models: the mean magnitude relative error (MMRE) and the number of predictions within 25% of the actual, pred(25). It is demonstrated that MMRE and pred(25) are, respectively, measures of the spread and the kurtosis of the variable z, where z=estimate/actual. Thus, z is considered to be a measure of accuracy, and statistics such as MMRE and pred(25) to be measures of properties of the distribution of z. It is suggested that measures of the central location and skewness of z, as well as measures of spread and kurtosis, are necessary. Furthermore, since the distribution of z is non-normal, non-parametric measures of these properties may be needed. For this reason, box-plots of z are useful alternatives to simple summary metrics. It is also noted that the simple residuals are better behaved than the z variable, and could also be used as the basis for comparing prediction systems.
+JO  - IEE Proc. Softw.
+TI  - What accuracy statistics really measure
+ID  - Kitchenham2001
+C1  - LitmapsId 117453361
+ER  - 
+TY  - JOUR
+AU  - Ferrucci, F.
+AU  - Gravino, C.
+AU  - Oliveto, R.
+AU  - Sarro, Federica
+PY  - 2010
+DA  - 2010-09-07T00:00:00Z
+DO  - 10.1109/SSBSE.2010.20
+AB  - Context: The use of search-based methods has been recently proposed for software development effort estimation and some case studies have been carried out to assess the effectiveness of Genetic Programming (GP). The results reported in the literature showed that GP can provide an estimation accuracy comparable or slightly better than some widely used techniques and encouraged further research to investigate whether varying the fitness function the estimation accuracy can be improved. Aim: Starting from these considerations, in this paper we report on a case study aiming to analyse the role played by some fitness functions for the accuracy of the estimates. Method: We performed a case study based on a publicly available dataset, i.e., Desharnais, by applying a 3-fold cross validation and employing summary measures and statistical tests for the analysis of the results. Moreover, we compared the accuracy of the obtained estimates with those achieved using some widely used estimation methods, namely Case-Based Reasoning (CBR) and Manual Step Wise Regression (MSWR). Results: The obtained results highlight that the fitness function choice significantly affected the estimation accuracy. The results also revealed that GP provided significantly better estimates than CBR and comparable with those of MSWR for the considered dataset.
+JO  - 2nd International Symposium on Search Based Software Engineering
+TI  - Genetic Programming for Effort Estimation: An Analysis of the Impact of Different Fitness Functions
+ID  - Ferrucci2010
+C1  - LitmapsId 197565381
+ER  - 

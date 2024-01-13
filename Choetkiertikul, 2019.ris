@@ -1,0 +1,260 @@
+TY  - JOUR
+AU  - Keklik, Vedat Can
+AU  - Ercan, Gonenc
+PY  - 2020
+DA  - 2020-10-05T00:00:00Z
+DO  - 10.1109/SIU49456.2020.9302270
+AB  - Recipes are text documents describing exactly how to prepare a meal. Predicting the time required to perform a task from its natural language description is a novel task with applications to different fields. In this work, an English recipe dataset is built from 61.600 recipes to serve as a benchmark for the task of predicting the recipe preparation time from its text. Four machine learning methods are evaluated and compared using this dataset. Experimental results indicate that it is possible to predict the preparation time for at least half of the recipes with a ten minute error margin.
+TI  - Predicting Preparation Times of Recipes from Text
+ID  - Keklik2020
+C1  - LitmapsId 162909074
+ER  - 
+TY  - JOUR
+AU  - Vargha, Andrais
+AU  - Delaney, Harold D.
+PY  - 2000
+DA  - 2000-06-20T00:00:00Z
+DO  - 10.3102/10769986025002101
+AB  - McGraw and Wong (1992) described an appealing index of effect size, called CL, which measures the difference between two populations in terms of the probability that a score sampled at random from the first population will be greater than a score sampled at random from the second. McGraw and Wong introduced this "common language effect size statistic" for normal distributions and then proposed an approximate estimation for any continuous distribution. In addition, they generalized CL to the n-group case, the correlated samples case, and the discrete values case. In the current paper a different generalization of CL, called the A measure of stochastic superiority, is proposed, which may be directly applied for any discrete or continuous variable that is at least ordinally scaled. Exact methods for point and interval estimation as well as the significance tests of the A = .5 hypothesis are provided. New generalizations ofCL are provided for the multi-group and correlated samples cases.
+TI  - A Critique and Improvement of the <i>CL</i> Common Language Effect Size Statistics of McGraw and Wong
+ID  - Vargha2000
+C1  - LitmapsId 261140047
+ER  - 
+TY  - JOUR
+AU  - Minku, Leandro L.
+PY  - 2021
+DA  - 2021-01-01T00:00:00Z
+AB  - 1 SUPPLEMENTARY MATERIAL CONTENT This file provide larger versions of some figures from the paper [11], and additional information on statistical tests, effect sizes and parameter choices. Specifically, Table 1 presents the effect sizes of the differences in predictive performance of each approach with respect to OATES. Figures 1 and 2 correspond to Figures 1 and 2 from the paper, but with larger size. Figure 3 shows the visualisation of the results of the statistical tests performed to answer RQ3 and relates to Section 6.4 of the paper. The figures are provided from the next page of this report onwards, to enable a higher resolution. Additional information about parameter choices to complement the information provided in Sections 5 and 7 of the paper is given in Section 2. A brief summary of existing work on machine learning for Software Effort Estimation (SEE) is also provided in Section 3 to complement the related work discussed in Section 2 of the paper. OATES’ code is available at [10].
+TI  - Multi-stream Online Transfer Learning for Software Effort Estimation: Supplementary Material
+ID  - Minku2021
+C1  - LitmapsId 238361329
+ER  - 
+TY  - JOUR
+AU  - Kolen, J.
+AU  - Kremer, S. C.
+PY  - 2001
+DA  - 2001-01-01T00:00:00Z
+DO  - 10.1109/9780470544037.CH14
+AB  - This chapter contains sections titled: Introduction Exponential Error Decay Dilemma: Avoiding Aradient Decay Prevents Long-Term Latching Remedies Conclusion 
+]]>
+TI  - Gradient Flow in Recurrent Nets: The Difficulty of Learning LongTerm Dependencies
+ID  - Kolen2001
+C1  - LitmapsId 29400083
+ER  - 
+TY  - JOUR
+AU  - Younisse, Remah
+AU  - Azzeh, Mohammad
+PY  - 2023
+DA  - 2023-11-21T00:00:00Z
+DO  - 10.1109/ICICS60529.2023.10330468
+AB  - Software effort estimation has long been an important task for better software management. Most of the constructed effort estimation models were based on data collected from software projects that had been developed using traditional software development processes. The structure of this data is usually in the form of tabulated data. Recently, the Agile management framework invaded software production lines as an effective and productive management method. It helps software development teams to complete their tasks in a highly effective way. One of the main components of this success is predicting accurate story points from textual user stories. User stories and story points have become an essential component over which the project planning process is built. Machine learning, artificial intelligence, and deep learning are used to enhance the process of using user story context to put a close estimate of the required resources to finish the project. Using these models has become popular and remarkable in the field of effort estimation. The textual nature of user stories directed the research into the natural language processing path. Natural language processing models can be used to understand textual user story context in order to produce effort estimates. This study reviews the usage of natural language processing methodology in the context of Agile project effort estimation based on the contextual content of user stories.
+TI  - Application of Natural Language Processing Techniques in Agile Software Project Management: A Survey
+ID  - Younisse2023
+C1  - LitmapsId 266799885
+ER  - 
+TY  - JOUR
+AU  - Karna, Hrvoje
+AU  - Vickovic, Linda
+AU  - Gotovac, Sven
+PY  - 2019
+DA  - 2019-02-01T00:00:00Z
+DO  - 10.1002/SPE.2651
+AB  - Information technology companies currently use data mining techniques in different areas with the goal of increasing the quality of decision‐ making and to improve their business performance. The study described in this paper uses a data mining approach to produce an effort estimation of a software development process. It is based on data collected in a Croatian information technology company. The study examined 27 software projects with a total effort exceeding 42 000 work hours. The presented model employs a modified Cross‐ Industry Standard Process for Data Mining, where prior to model creation, additional clustering of projects is performed. The results generated by the proposed approach generally had a smaller effort estimation error than the results of human experts. The applied approach has proved that sound results can be gained through the use of data mining within the studied area. As a result, it would be wise to use such estimates as additional input in the decision‐making process.
+JO  - Software - Practice and Experience
+TI  - Application of Data Mining Methods for Effort Estimation of Software Projects
+ID  - Karna2019
+C1  - LitmapsId 159105140
+ER  - 
+TY  - JOUR
+AU  - Alhefdhi, Abdulaziz
+AU  - Dam, K.
+AU  - Nugroho, Yusuf Sulistyo
+AU  - Hata, Hideaki
+AU  - Ishio, T.
+AU  - Ghose, A.
+PY  - 2020
+DA  - 2020-01-01T00:00:00Z
+AB  - Technical debt occurs when software engineers favour short-term operability over long-term stability. Since this puts software stability at risk, technical debt requires early attention (failing which it accumulates interest). Most of existing work focus on detecting technical debts through code comment (i.e. self-admitted technical debt). However, there are many cases where technical debts are not explicitly acknowledged but deeply hidden in the code. In this paper, we propose a more comprehensive solution to deal with technical debt. We design a framework that caters for both cases of the existence of a comment. If a comment is absent and our framework detects a technical debt hidden in the code, it will automatically generate a relevant comment that can be attached with the code. We explore different implementations of this framework and the evaluation results demonstrate the applicability and effectiveness of our framework.
+JO  - ArXiv
+TI  - A Framework for Self-Admitted Technical Debt Identification and Description
+ID  - Alhefdhi2020
+C1  - LitmapsId 235608174
+ER  - 
+TY  - JOUR
+AU  - Meiliana, 
+AU  - Daniella, Gabrielle
+AU  - Wijaya, Natasha
+AU  - Putra, Nathanael Geordie Eka
+AU  - Efata, Rosayanti
+PY  - 2023
+DA  - 2023-01-01T00:00:00Z
+DO  - 10.1016/J.PROCS.2023.10.516
+AB  - In all methods of Agile Software Development methods, an estimation process which determines the size of all Product Backlog Items (PBI) is essentially important. One of those methods is Planning Poker. This method is familiar among developers in the globe and one of the famous analogy-based estimation techniques known. In Planning Poker, the goal is to have a consensus vote on how big a product backlog should be. This consensus is reached via open discussion. As discussion is involved, many aspects of human errors could cause problems such as: anchoring effect and overconfidence which often leads to underestimation. To comprehend this, we offer an AI method that can be applied alongside the discussion to minimize this human error factors. We will be using NLP and ANN to classify a Product Backlog Item based on previous projects. The aim is individual estimate given by the AI that is free from influence from human to give better estimation. The result is expected at above 90% accuracy to give the best performance.
+JO  - Procedia Computer Science
+TI  - Agile Software Development Effort Estimation based on Product Backlog Items
+ID  - Meiliana2023
+C1  - LitmapsId 266231877
+ER  - 
+TY  - JOUR
+AU  - Ahmad, I.
+AU  - Hussain, S.
+AU  - Mahmood, S.
+AU  - Mostafa, H.
+AU  - Alkhayyat, A.
+AU  - Marey, M.
+AU  - Abbas, Ali Hashim
+AU  - Rashed, Zainab Abdulateef
+PY  - 2023
+DA  - 2023-02-20T00:00:00Z
+DO  - 10.3390/INFO14020139
+AB  - The co-channel interference for mobile users (MUs) of a public safety network (PSN) in the co-existence of heterogeneous networks such as unmanned aerial vehicles (UAVs) and LTE-based railway networks (LRNs) needs a thorough investigation, where UAVs are deployed as mobile base stations (BSs) for cell-edge coverage enhancement. Moreover, the LRN is employed for the train, and its control signal demands high reliability and low latency. It is necessary to provide higher priority to LRN users when allocating resources from shared radio access channels (RACs). By considering both sharing and non-sharing of RACs, co-channel interference was analyzed in the downlink network of the PSN, UAV, and LRN. By offloading more PSN MUs to the LRN or UAVs, the resource utilization of the LRN and UAV BSs was enhanced. In this paper, we aimed to adopt deep-learning (DL)-based enhanced inter-cell interference coordination (eICIC) and further enhanced ICIC (FeICIC) strategies to deal with the interference from the PSN to the LRN and UAVs. Moreover, a DL-based coordinated multipoint (CoMP) for coordinated scheduling technique was utilized along with FeICIC and eICIC to enhance the performance of PSN MUs. In the simulation results, the performance of DL-based interference management was compared with simple eICI, FeICIC, and coordinated scheduling CoMP. The DL-based FeICIC and CoMP for coordinated scheduling performed best with shared RACs.
+JO  - Inf.
+TI  - Co-Channel Interference Management for Heterogeneous Networks Using Deep Learning Approach
+ID  - Ahmad2023
+C1  - LitmapsId 254246330
+ER  - 
+TY  - JOUR
+AU  - Phan, H.
+AU  - Jannesari, A.
+PY  - 2022
+DA  - 2022-05-01T00:00:00Z
+DO  - 10.1145/3528588.3528654
+AB  - Estimating the software projects’ efforts developed by agile methods is important for project managers or technical leads. It provides a summary as a first view of how many hours and developers are required to complete the tasks. There are research works on automatic predicting the software efforts, including Term Frequency - Inverse Document Frequency (TFIDF) as the traditional approach for this problem. Graph Neural Network is a new approach that has been applied in Natural Language Processing for text classification. The advantages of Graph Neural Network are based on the ability to learn information via graph data structure, which has more representations such as the relationships between words compared to approaches of vectorizing sequence of words. In this paper, we show the potential and possible challenges of Graph Neural Network text classification in story point level estimation. By the experiments, we show that the GNN Text Level Classification can achieve as high accuracy as about 80% for story points level classification, which is comparable to the traditional approach. We also analyze the GNN approach and point out several current disadvantages that the GNN approach can improve for this problem or other problems in software engineering.
+JO  - 2022 IEEE/ACM 1st International Workshop on Natural Language-Based Software Engineering (NLBSE)
+TI  - Story Point Level Classification by Text Level Graph Neural Network
+ID  - Phan2022
+C1  - LitmapsId 243020693
+ER  - 
+TY  - JOUR
+AU  - Choetkiertikul, Morakot
+PY  - 2018
+DA  - 2018-01-01T00:00:00Z
+TI  - Developing analytics models for software project management
+ID  - Choetkiertikul2018
+C1  - LitmapsId 151765531
+ER  - 
+TY  - JOUR
+AU  - Sarro, Federica
+AU  - Petrozziello, Alessio
+AU  - Harman, M.
+PY  - 2016
+DA  - 2016-05-14T00:00:00Z
+DO  - 10.1145/2884781.2884830
+AB  - We introduce a bi-objective effort estimation algorithm that combines Confidence Interval Analysis and assessment of Mean Absolute Error. We evaluate our proposed algorithm on three different alternative formulations, baseline comparators and current state-of-the-art effort estimators applied to five real-world datasets from the PROMISE repository, involving 724 different software projects in total. The results reveal that our algorithm outperforms the baseline, state-of-the-art and all three alternative formulations, statistically significantly (p
+JO  - 2016 IEEE/ACM 38th International Conference on Software Engineering (ICSE)
+TI  - Multi-objective Software Effort Estimation
+ID  - Sarro2016
+C1  - LitmapsId 132819153
+ER  - 
+TY  - JOUR
+AU  - Shepperd, M.
+AU  - Schofield, C.
+PY  - 1997
+DA  - 1997-11-01T00:00:00Z
+DO  - 10.1109/32.637387
+AB  - Accurate project effort prediction is an important goal for the software engineering community. To date most work has focused upon building algorithmic models of effort, for example COCOMO. These can be calibrated to local environments. We describe an alternative approach to estimation based upon the use of analogies. The underlying principle is to characterize projects in terms of features (for example, the number of interfaces, the development method or the size of the functional requirements document). Completed projects are stored and then the problem becomes one of finding the most similar projects to the one for which a prediction is required. Similarity is defined as Euclidean distance in n-dimensional space where n is the number of project features. Each dimension is standardized so all dimensions have equal weight. The known effort values of the nearest neighbors to the new project are then used as the basis for the prediction. The process is automated using a PC-based tool known as ANGEL. The method is validated on nine different industrial datasets (a total of 275 projects) and in all cases analogy outperforms algorithmic models based upon stepwise regression. From this work we argue that estimation by analogy is a viable technique that, at the very least, can be used by project managers to complement current estimation techniques.
+JO  - IEEE Trans. Software Eng.
+TI  - Estimating Software Project Effort Using Analogies
+ID  - Shepperd1997
+C1  - LitmapsId 8561324
+ER  - 
+TY  - JOUR
+AU  - Choetkiertikul, Morakot
+AU  - Dam, H.
+AU  - Tran, T.
+AU  - Ghose, A.
+AU  - Grundy, J.
+PY  - 2018
+DA  - 2018-06-01T00:00:00Z
+DO  - 10.1109/TSE.2017.2693989
+AB  - Iterative software development has become widely practiced in industry. Since modern software projects require fast, incremental delivery for every iteration of software development, it is essential to monitor the execution of an iteration, and foresee a capability to deliver quality products as the iteration progresses. This paper presents a novel, data-driven approach to providing automated support for project managers and other decision makers in predicting delivery capability for an ongoing iteration. Our approach leverages a history of project iterations and associated issues, and in particular, we extract characteristics of previous iterations and their issues in the form of features. In addition, our approach characterizes an iteration using a novel combination of techniques including feature aggregation statistics, automatic feature learning using the Bag-of-Words approach, and graph-based complexity measures. An extensive evaluation of the technique on five large open source projects demonstrates that our predictive models outperform three common baseline methods in Normalized Mean Absolute Error and are highly accurate in predicting the outcome of an ongoing iteration.
+JO  - IEEE Transactions on Software Engineering
+TI  - Predicting Delivery Capability in Iterative Software Development
+ID  - Choetkiertikul2018
+C1  - LitmapsId 31733070
+ER  - 
+TY  - JOUR
+AU  - Jørgensen, M.
+AU  - Shepperd, M.
+PY  - 2007
+DA  - 2007-01-01T00:00:00Z
+DO  - 10.1109/TSE.2007.256943
+AB  - This paper aims to provide a basis for the improvement of software-estimation research through a systematic review of previous work. The review identifies 304 software cost estimation papers in 76 journals and classifies the papers according to research topic, estimation approach, research approach, study context and data set. A Web-based library of these cost estimation papers is provided to ease the identification of relevant estimation research results. The review results combined with other knowledge provide support for recommendations for future software cost estimation research, including: 1) increase the breadth of the search for relevant studies, 2) search manually for relevant papers within a carefully selected set of journals when completeness is essential, 3) conduct more studies on estimation methods commonly used by the software industry, and 4) increase the awareness of how properties of the data sets impact the results when evaluating estimation methods
+JO  - IEEE Transactions on Software Engineering
+TI  - A Systematic Review of Software Development Cost Estimation Studies
+ID  - Jørgensen2007
+C1  - LitmapsId 260993474
+ER  - 
+TY  - JOUR
+AU  - Alsubhi, Khalid
+PY  - 2019
+DA  - 2019-12-15T00:00:00Z
+DO  - 10.30534/IJACST/2019/018122019
+AB  - Software effort estimation is a major activity in the process of software development that permits managers and software engineers to accurately estimate the schedule and budget. Although traditional effort estimation approaches are used to estimate effort for agile software projects but they mostly result in inaccurate estimates. According to standard surveys, 30% to 40% of software projects failed because of inaccuracy of software effort predictions. To improve the accuracy and efficiency of effort estimation, an agile software development process is introduced and substitutes the traditional methods in the software industry. One approach of calculating effort of agile projects is the Story Point Approach. Software industries have adapted the Agile model where effort is estimated using Story Points. The goal of this study is to provide a detailed overview of the effort estimation techniques in Agile Software Development based on Story Points. In this paper, we propose a prediction model for estimating story points based on long short-term memory and recurrent network. This model has been applied to a dataset composed of issue reports mined from JIRA repositories. The proposed work uses three different performance metrics i.e. mean magnitude of relative error, mean square error, and prediction to evaluate the performance of the model. The results of the proposed models are compared to the existing models in the literature.
+JO  - International Journal of Advances in Computer Science and Technology
+TI  - Effort Estimation in Agile Software Development Using Deep Learning Model
+ID  - Alsubhi2019
+C1  - LitmapsId 101065199
+ER  - 
+TY  - JOUR
+AU  - Jørgensen, Magne
+PY  - 2004
+DA  - 2004-02-01T00:00:00Z
+DO  - 10.1016/S0164-1212(02)00156-5
+AB  - This paper provides an extensive review of studies related to expert estimation of software development effort. The main goal and contribution of the review is to support the research on expert estimation, e.g., to ease other researcher's search for relevant expert estimation studies. In addition, we provide software practitioners with useful estimation guidelines, based on the research-based knowledge of expert estimation processes. The review results suggest that expert estimation is the most frequently applied estimation strategy for software projects, that there is no substantial evidence in favour of use of estimation models, and that there are situations where we can expect expert estimates to be more accurate than formal estimation models. The following 12 expert estimation ''best practice'' guidelines are evaluated through the review: (1) evaluate estimation accuracy, but avoid high evaluation pressure; (2) avoid conflicting estimation goals; (3) ask the estimators to justify and criticize their estimates; (4) avoid irrelevant and unreliable estimation information; (5) use documented data from previous development tasks; (6) find estimation experts with relevant domain background and good estimation records; (7) Estimate top-down and bottom-up, independently of each other; (8) use estimation checklists; (9) combine estimates from different experts and estimation strategies; (10) assess the uncertainty of the estimate; (11) provide feedback on estimation accuracy and development task relations; and, (12) provide estimation training opportunities. We found supporting evidence for all 12 estimation principles, and provide suggestions on how to implement them in software organizations.
+JO  - Journal of Systems and Software
+TI  - A review of studies on expert estimation of software development effort
+ID  - Jørgensen2004
+C1  - LitmapsId 181815503
+ER  - 
+TY  - JOUR
+AU  - Foss, T.
+AU  - Stensrud, E.
+AU  - Kitchenham, B.
+AU  - Myrtveit, I.
+PY  - 2003
+DA  - 2003-11-01T00:00:00Z
+DO  - 10.1109/TSE.2003.1245300
+AB  - The mean magnitude of relative error, MMRE, is probably the most widely used evaluation criterion for assessing the performance of competing software prediction models. One purpose of MMRE is to assist us to select the best model. In this paper, we have performed a simulation study demonstrating that MMRE does not always select the best model. Our findings cast some doubt on the conclusions of any study of competing software prediction models that use MMRE as a basis of model comparison. We therefore recommend not using MMRE to evaluate and compare prediction models. At present, we do not have any universal replacement for MMRE. Meanwhile, we therefore recommend using a combination of theoretical justification of the models that are proposed together with other metrics proposed in this paper.
+JO  - IEEE Trans. Software Eng.
+TI  - A Simulation Study of the Model Evaluation Criterion MMRE
+ID  - Foss2003
+C1  - LitmapsId 56748518
+ER  - 
+TY  - JOUR
+AU  - Shepperd, Martin
+AU  - Macdonell, Steve
+PY  - 2012
+DA  - 2012-08-01T00:00:00Z
+DO  - 10.1016/J.INFSOF.2011.12.008
+AB  - Context: Software engineering has a problem in that when we empirically evaluate competing prediction systems we obtain conflicting results. Objective: To reduce the inconsistency amongst validation study results and provide a more formal foundation to interpret results with a particular focus on continuous prediction systems. Method: A new framework is proposed for evaluating competing prediction systems based upon (1) an unbiased statistic, Standardised Accuracy, (2) testing the result likelihood relative to the baseline technique of random 'predictions', that is guessing, and (3) calculation of effect sizes. Results: Previously published empirical evaluations of prediction systems are re-examined and the original conclusions shown to be unsafe. Additionally, even the strongest results are shown to have no more than a medium effect size relative to random guessing. Conclusions: Biased accuracy statistics such as MMRE are deprecated. By contrast this new empirical validation framework leads to meaningful results. Such steps will assist in performing future meta-analyses and in providing more robust and usable recommendations to practitioners.
+JO  - Information & Software Technology
+TI  - Evaluating prediction systems in software project estimation
+ID  - Shepperd2012
+C1  - LitmapsId 19420189
+ER  - 
+TY  - JOUR
+AU  - Cohn, Mike
+PY  - 2005
+DA  - 2005-01-01T00:00:00Z
+AB  - I’ve been meaning to buy this book since its release, but Mike was kind enough to send me one for review. I’ve come to this book from a two year planning assignment on two large aerospace programs and prior experience as a Program Management Officer for the IT portion of a very large Department of Energy program. But these jobs are not my normal profession, which is Enterprise IT management and product development. I was pulled into these planning roles through proposal efforts that won and I was left to implement the plan. Be careful for what you wish.
+TI  - Agile Estimating and Planning
+ID  - Cohn2005
+C1  - LitmapsId 6802915
+ER  - 
+TY  - JOUR
+AU  - Choetkiertikul, Morakot
+AU  - Dam, Hoa Khanh
+AU  - Tran, Truyen
+AU  - Pham, Trang
+AU  - Ghose, Aditya
+AU  - Menzies, Tim
+PY  - 2019
+DA  - 2019-07-01T00:00:00Z
+DO  - 10.1109/TSE.2018.2792473
+AB  - Although there has been substantial research in software analytics for effort estimation in traditional software projects, little work has been done for estimation in agile projects, especially estimating the effort required for completing user stories or issues. Story points are the most common unit of measure used for estimating the effort involved in completing a user story or resolving an issue. In this paper, we propose a prediction model for estimating story points based on a novel combination of two powerful deep learning architectures: long short-term memory and recurrent highway network. Our prediction system is end-to-end trainable from raw input data to prediction outcomes without any manual feature engineering. We offer a comprehensive dataset for story points-based estimation that contains 23,313 issues from 16 open source projects. An empirical evaluation demonstrates that our approach consistently outperforms three common baselines (Random Guessing, Mean, and Median methods) and six alternatives (e.g., using Doc2Vec and Random Forests) in Mean Absolute Error, Median Absolute Error, and the Standardized Accuracy.
+JO  - IEEE Transactions on Software Engineering
+TI  - A Deep Learning Model for Estimating Story Points
+ID  - Choetkiertikul2019
+C1  - LitmapsId 127089508
+ER  - 

@@ -1,0 +1,261 @@
+TY  - JOUR
+AU  - Johnson, W. G.
+AU  - Cheng, C.
+PY  - 2017
+DA  - 2017-01-01T00:00:00Z
+AB  - Software effort estimation is an aspect of software engineering involving evaluation of numerous different changing factors related to the creation of a system. Historically, estimation methods have relied on construction cost models (COCOMO) and function point analysis (FPA) to deliver accurate estimation values. We explored recently published works from 2016, describing the incorporation of machine learning techniques to produce effort estimations. We reviewed papers that utilize machine learning combinations and compared numerous single techniques for better accuracy. Our research has surveyed current state of the art techniques involving Bayesian networks, artificial neural networks, genetic algorithms, particle swarm optimization and random forests. We present our findings and show a comparison of the various outcomes for better prediction. This research is important because it directly affects the quality of a project and the benefit of a company. Overestimating may threaten the client relationship while underestimating may produce a poor project due to insufficient resources. The application of the machine learning techniques applied to standard estimation datasets will be the focus in our review. Machine learning is an important method to build estimating models, therefore, one can produce more accurate predictions in effort estimation. We expect students to learn the importance of software effort estimation, the base standards for expression of effort, and how it can be used in predicting the effort or cost of a project. I. FIVE MAIN REFERENCES Applied Soft Computing, 2016, [1]. IET Journals, The Institution of Engineering and Technology, 2016, [2]. Journal of Advances in Computer Engineering and Technology, 2016, [3]. Neural and Computing Applications, 2016, [4]. Twelfth International Multi-Conference on Information Processing, 2016, [5]. II. OTHER REFERENCES The Journal of Systems and Software, 2016, [6]. International Conference on Electrical, Electronics and Optimization Techniques, 2016, [7]. International Conference on Computational Modeling and Security, 2016, [8]. The Journal of Systems and Software, 2016, [9]. The Journal of Systems and Software, 2016, [10]. IEEE/ACM 38th IEEE International Conference of Software Engineering, 2016, [11].
+TI  - A SURVEY OF SOFTWARE EFFORT ESTIMATION TECHNIQUES USING MACHINE LEARNING Research Oriented
+ID  - Johnson2017
+C1  - LitmapsId 231716143
+ER  - 
+TY  - JOUR
+AU  - Shivakumar, S.
+PY  - 2020
+DA  - 2020-07-01T00:00:00Z
+DO  - 10.4018/IJPMPA.2020070105
+AB  - Software enhancements and the maintenance phase is generally the crucial phase of a software application lifecycle. The enhancements and maintenance consume about 20% of the overall software lifecycle effort. Enhancement and maintenance phase of modern digital projects involves many activities such as incident management, application enhancements, generic maintenance, quality improvements such as automation, preventive maintenance, continuous improvement, and such. State-of the-art estimation models and frameworks fall short of factoring all the dynamics involved in the enhancements and maintenance phase. The article proposes a digital project maintenance estimation framework to estimate various activities of a digital maintenance project. The proposed estimation framework provides comprehensive coverage of maintenance activities including incident management, application enhancements, generic maintenance, and quality improvements. The proposed estimation framework was used to predict effort estimate of 5 digital maintenance projects with MMRE of 0.255 and predicted (0.3) of 80%.
+TI  - Software Estimation Framework for Digital Enhancements and Maintenance Projects
+ID  - Shivakumar2020
+C1  - LitmapsId 213505632
+ER  - 
+TY  - JOUR
+AU  - Ferrucci, Filomena
+AU  - Gravino, Carmine
+AU  - Sarro, Federica
+PY  - 2011
+DA  - 2011-09-10T00:00:00Z
+DO  - 10.1007/978-3-642-23716-4_28
+AB  - The idea of exploiting search-based methods to estimate development effort is based on the observation that the effort estimation problem can be formulated as an optimization problem. As a matter of fact, among possible estimation models, we have to identify the best one, i.e., the one providing the most accurate estimates. Nevertheless, in the context of effort estimation there does not exist a unique measure that allows us to compare different models and consistently derives the best one [1]. Rather, several evaluation criteria (e.g., MMRE and Pred(25)) covering different aspects of model performances (e.g., underestimating or overestimating) are used to assess and compare estimation models [1]. Thus, considering the effort estimation problem as an optimization problem we should search for the model that optimizes several measures. From this point of view, the effort estimation problem is inherently multi-objective. Nevertheless, all the studies that have been carried out so far on the use of search-based techniques for effort estimation exploited single objectives (e.g., [2][3]). Those studies have also revealed that the use of some measures as fitness function (e.g., MMRE) decreased a lot the accuracy in terms of other summary measures [2]. A first attempt to take into account different evaluation criteria has been reported by Ferrucci et al. [3], where Genetic Programming (GP) exploited a combination of two measures (e.g., Pred(25) and MMRE) in a single fitness function, providing encouraging results. Obviously, an approach based on combination of measures is the simplest way to deal with the multi-objective problem but this can determine biases since there is no defined way of aggregating different objectives. Thus, we investigated the use of a Multi-Objective Genetic Programming (MOGP) approach with the aim to verify its effectiveness. To the best of our knowledge this is the first attempt to apply a MOGP approach in this field. In particular, we designed and experimented an adaptation to GP of the Non dominated Sort Genetic Algorithm-II (NSGA-II) exploiting multi-objective functions based on a different number and type of evaluation criteria. Moreover, we compared the performance of MOGP with GP using different fitness functions. The preliminary empirical analysis, carried out with some publicly available datasets included in the PROMISE repository [4], revealed that the choice of the evaluation criteria employed in the definition of the fitness function affects the overall accuracy of both MOPG and GP. Nevertheless, no significant statistical difference has been found between the best results achieved with MOGP and GP. Thus, the use of a more sophisticated technique, such as MOGP, seems to be not cost/effective in this context. However, this is a preliminary analysis that needs to be deepen also using more data. Moreover, the use of other multi-objective optimization approaches could be exploited to investigate whether there are improvements in the accuracy of the obtained estimation models.
+JO  - Lecture Notes in Computer Science
+TI  - How multi-objective genetic programming is effective for software development effort estimation?
+ID  - Ferrucci2011
+C1  - LitmapsId 18755054
+ER  - 
+TY  - JOUR
+AU  - Angelis, L.
+AU  - Stamelos, I.
+AU  - Morisio, M.
+PY  - 2001
+DA  - 2001-04-04T00:00:00Z
+DO  - 10.1109/METRIC.2001.915511
+AB  - The paper explores the possibility of generating a multi-organisational software cost estimation model by analysing the software cost data collected by the International Software Benchmarking Standards Group. This database contains data about recently developed projects characterised mostly by attributes of categorical nature such as the project business area, organisation type, application domain and usage of certain tools or methods. The generation of the model is based on a statistical technique which has been proposed as alternative to the standard regression approach, namely the categorical regression or regression with optimal scaling. This technique starts with the quantification of the qualitative attributes (expressed either on nominal or ordinal scale), that appear frequently within such data, and proceeds by using the obtained scores as independent variables of a regression model. The generated model is validated by measuring certain indicators of accuracy.
+JO  - Proceedings Seventh International Software Metrics Symposium
+TI  - Building a software cost estimation model based on categorical data
+ID  - Angelis2001
+C1  - LitmapsId 89416940
+ER  - 
+TY  - JOUR
+AU  - Fu, Michael
+AU  - Tantithamthavorn, C.
+PY  - 2023
+DA  - 2023-02-01T00:00:00Z
+DO  - 10.1109/TSE.2022.3158252
+AB  - Story point estimation is a task to estimate the overall effort required to fully implement a product backlog item. Various estimation approaches (e.g., Planning Poker, Analogy, and expert judgment) are widely-used, yet they are still inaccurate and may be subjective, leading to ineffective sprint planning. Recent work proposed Deep-SE, a deep learning-based Agile story point estimation approach, yet it is still inaccurate, not transferable to other projects, and not interpretable. In this paper, we propose GPT2SP, a Transformer-based Agile Story Point Estimation approach. Our GPT2SP employs a GPT-2 pre-trained language model with a GPT-2 Transformer-based architecture, allowing our GPT2SP models to better capture the relationship among words while considering the context surrounding a given word and its position in the sequence and be transferable to other projects, while being interpretable. Through an extensive evaluation on 23,313 issues that span across 16 open-source software projects with 10 existing baseline approaches for within- and cross-project scenarios, our results show that our GPT2SP approach achieves a median MAE of 1.16, which is (1) 34%-57% more accurate than existing baseline approaches for within-project estimations; (2) 39%-49% more accurate than existing baseline approaches for cross-project estimations. The ablation study also shows that the GPT-2 architecture used in our approach substantially improves Deep-SE by 6%-47%, highlighting the significant advancement of the AI for Agile story point estimation. Finally, we develop a proof-of-concept tool to help practitioners better understand the most important words that contributed to the story point estimation of the given issue with the best supporting examples from past estimates. Our survey study with 16 Agile practitioners shows that the story point estimation task is perceived as an extremely challenging task. In addition, our AI-based story point estimation with explanations is perceived as more useful and trustworthy than without explanations, highlighting the practical need of our Explainable AI-based story point estimation approach.
+JO  - IEEE Transactions on Software Engineering
+TI  - GPT2SP: A Transformer-Based Agile Story Point Estimation Approach
+ID  - Fu2023
+C1  - LitmapsId 118970973
+ER  - 
+TY  - JOUR
+AU  - Shepperd, Martin
+PY  - 2003
+DA  - 2003-01-01T00:00:00Z
+DO  - 10.1007/978-3-662-05129-0_9
+AB  - Case-based reasoning (CBR) is a technology that is based on the idea of analogy. Solutions from past problems (cases) can be retrieved and deployed, with adaptation where necessary, to solve new problems. It is argued that CBR as a technology has a number of strengths, since it deals well with poorly understood problem domains, does not require explicit knowledge elicitation and supports collaboration with users. This chapter provides some general background information on CBR and then considers how CBR has been deployed to solve problems in the domain of software engineering. These problems fall into two general categories, namely prediction and reuse. The main prediction problems are related to project characteristics such as effort and duration, whilst the chief reuse foci are related to learning from past experiences. The chapter concludes by identifying three research challenges. These are to be able to better adapt retrieved solutions to solve new problems, to explore richer forms of representation for complex problems and, last, to encourage better collaboration between the user and the CBR system.
+TI  - Case-Based Reasoning and Software Engineering
+ID  - Shepperd2003
+C1  - LitmapsId 136576875
+ER  - 
+TY  - JOUR
+AU  - Finkelstein, Anthony
+AU  - Harman, Mark
+AU  - Jia, Yue
+AU  - Martin, William
+AU  - Sarro, Federica
+AU  - Zhang, Yuanyuan
+PY  - 2017
+DA  - 2017-07-01T00:00:00Z
+DO  - 10.1016/J.INFSOF.2017.03.002
+AB  - Context: App stores provide a software development space and a market place that are both different from those to which we have become accustomed for traditional software development: The granularity is finer and there is a far greater source of information available for research and analysis. Information is available on price, customer rating and, through the data mining approach presented in this paper, the features claimed by app developers. These attributes make app stores ideal for empirical software engineering analysis.Objective: This paper11This paper is an extended version of our short paper at MSR 2012 [1]; a technical report is also available [2]. exploits App Store Analysis to understand the rich interplay between app customers and their developers.Method: We use data mining to extract app descriptions, price, rating, and popularity information from the Blackberry World App Store, and natural language processing to elicit each apps claimed features from its description.Results: The findings reveal that there are strong correlations between customer rating and popularity (rank of app downloads). We found evidence for a mild correlation between app price and the number of features claimed for the app and also found that higher priced features tended to be lower rated by their users. We also found that free apps have significantly (p-value < 0.001) higher ratings than non-free apps, with a moderately high effect size (A^12=0.68). All data from our experiments and analysis are made available on-line to support further investigations.
+JO  - Information & Software Technology
+TI  - Investigating the relationship between price, rating, and popularity in the Blackberry World App Store
+ID  - Finkelstein2017
+C1  - LitmapsId 159016006
+ER  - 
+TY  - JOUR
+AU  - Ali, Asad
+AU  - Gravino, C.
+PY  - 2022
+DA  - 2022-08-01T00:00:00Z
+DO  - 10.1109/SEAA56994.2022.00041
+AB  - Several studies have raised concerns about the performance of estimation techniques if employed with default parameters provided by specific development toolkits, e.g., Weka. In this paper, we evaluate the impact of parameter optimization with nine different estimation techniques in the Software Development Effort Estimation (SDEE) and Software Fault Prediction (SFP) domains to provide more generic findings of the impact of parameter optimization. To this aim, we employ three datasets from the domain of SDEE (China, Maxwell, Nasa) and three different regression-based datasets from the SFP domain (Ant, Xalan, Xerces). Regarding parameter optimization, we consider four optimization algorithms from different families: Grid Search and Random Search, Simulated Annealing, and Bayesian Optimization. The estimation techniques are: Support Vector Machine, Random Forest, Classification and Regression Tree, Neural Networks, Averaged Neural Networks, k-Nearest Neighbor, Partial Least Square, MultiLayer Perceptron, and Gradient Boosting Machine. Results reveal that, with both SDEE and SFP datasets, seven out of nine estimation techniques require optimization/configuration of at least one parameter. In majority of the cases, the parameters of the employed estimation techniques are sensitive to the optimization of specific types of data. Moreover, not all the parameters need to be optimized as some of them are not sensitive to optimization.
+JO  - EUROMICRO Conference on Software Engineering and Advanced Applications
+TI  - The Impact of Parameters Optimization in Software Prediction Models
+ID  - Ali2022
+C1  - LitmapsId 252801480
+ER  - 
+TY  - JOUR
+AU  - Chouchen, Moataz
+AU  - Olongo, Jefferson
+AU  - Ouni, Ali
+AU  - Mkaouer, Mohamed Wiem
+PY  - 2021
+DA  - 2021-09-30T00:00:00Z
+DO  - 10.26226/MORRESSIER.613B5419842293C031B5B63C
+AB  - Context. Modern Code Review (MCR) is being adopted in both open source and commercial projects as a common practice. MCR is a widely acknowledged quality assurance practice that allows early detection of defects as well as poor coding practices. It also brings several other benefits such as knowledge sharing, team awareness, and collaboration. Problem. In practice, code reviews can experience significant delays to be completed due to various socio-technical factors which can affect the project quality and cost. For a successful review process, peer reviewers should perform their review tasks in a timely manner while providing relevant feedback about the code change being reviewed. However, there is a lack of tool support to help developers estimating the time required to complete a code review prior to accepting or declining a review request. Objective. Our objective is to build and validate an effective approach to predict the code review completion time in the context of MCR and help developers better manage and prioritize their code review tasks. Method. We formulate the prediction of the code review completion time as a learning problem. In particular, we propose a framework based on regression models to (i) effectively estimate the code review completion time, and (ii) understand the main factors influencing code review completion time.
+JO  - arXiv.org
+TI  - Predicting Code Review Completion Time in Modern Code Review
+ID  - Chouchen2021
+C1  - LitmapsId 58729452
+ER  - 
+TY  - JOUR
+AU  - Barros, M.
+PY  - 2012
+DA  - 2012-07-07T00:00:00Z
+DO  - 10.1145/2330163.2330330
+AB  - The application of multiobjective optimization to address Software Engineering problems is a growing trend. Multiobjective algorithms provide a balance between the ability of the computer to search a large solution space for valuable solutions and the capacity of the human decision-maker to select an alternative when two or more incomparable objectives are presented. However, when more than a single objective is available, the set of objectives to be considered by the search becomes part of the decision. In this paper, we address the efficiency and effectiveness of using two composite objectives while searching solutions for the software clustering problem. We designed an experimental study which shows that a multiobjective genetic algorithm can find a set of solutions with increased quality and using less processing time if these composite objectives are suppressed from the formulation for the software clustering problem.
+JO  - GECCO '12
+TI  - An analysis of the effects of composite objectives in multiobjective software module clustering
+ID  - Barros2012
+C1  - LitmapsId 161463735
+ER  - 
+TY  - JOUR
+AU  - Shepperd, Martin
+AU  - Macdonell, Steve
+PY  - 2012
+DA  - 2012-08-01T00:00:00Z
+DO  - 10.1016/J.INFSOF.2011.12.008
+AB  - Context: Software engineering has a problem in that when we empirically evaluate competing prediction systems we obtain conflicting results. Objective: To reduce the inconsistency amongst validation study results and provide a more formal foundation to interpret results with a particular focus on continuous prediction systems. Method: A new framework is proposed for evaluating competing prediction systems based upon (1) an unbiased statistic, Standardised Accuracy, (2) testing the result likelihood relative to the baseline technique of random 'predictions', that is guessing, and (3) calculation of effect sizes. Results: Previously published empirical evaluations of prediction systems are re-examined and the original conclusions shown to be unsafe. Additionally, even the strongest results are shown to have no more than a medium effect size relative to random guessing. Conclusions: Biased accuracy statistics such as MMRE are deprecated. By contrast this new empirical validation framework leads to meaningful results. Such steps will assist in performing future meta-analyses and in providing more robust and usable recommendations to practitioners.
+JO  - Information & Software Technology
+TI  - Evaluating prediction systems in software project estimation
+ID  - Shepperd2012
+C1  - LitmapsId 19420189
+ER  - 
+TY  - JOUR
+AU  - Shepperd, M.
+AU  - Schofield, C.
+PY  - 1997
+DA  - 1997-11-01T00:00:00Z
+DO  - 10.1109/32.637387
+AB  - Accurate project effort prediction is an important goal for the software engineering community. To date most work has focused upon building algorithmic models of effort, for example COCOMO. These can be calibrated to local environments. We describe an alternative approach to estimation based upon the use of analogies. The underlying principle is to characterize projects in terms of features (for example, the number of interfaces, the development method or the size of the functional requirements document). Completed projects are stored and then the problem becomes one of finding the most similar projects to the one for which a prediction is required. Similarity is defined as Euclidean distance in n-dimensional space where n is the number of project features. Each dimension is standardized so all dimensions have equal weight. The known effort values of the nearest neighbors to the new project are then used as the basis for the prediction. The process is automated using a PC-based tool known as ANGEL. The method is validated on nine different industrial datasets (a total of 275 projects) and in all cases analogy outperforms algorithmic models based upon stepwise regression. From this work we argue that estimation by analogy is a viable technique that, at the very least, can be used by project managers to complement current estimation techniques.
+JO  - IEEE Trans. Software Eng.
+TI  - Estimating Software Project Effort Using Analogies
+ID  - Shepperd1997
+C1  - LitmapsId 8561324
+ER  - 
+TY  - JOUR
+AU  - Tawosi, Vali
+AU  - Sarro, Federica
+AU  - Petrozziello, Alessio
+AU  - Harman, M.
+PY  - 2021
+DA  - 2021-05-25T00:00:00Z
+DO  - 10.1109/TSE.2021.3083360
+AB  - Replication studies increase our confidence in previous results when the findings are similar each time, and help mature our knowledge by addressing both internal and external validity aspects. However, these studies are still rare in certain software engineering fields. In this paper, we replicate and extend a previous study, which denotes the current state-of-the-art for multi-objective software effort estimation, namely CoGEE. We investigate the original research questions with an independent implementation and the inclusion of a more robust baseline (LP4EE), carried out by the first author, who was not involved in the original study. Through this replication, we strengthen both the internal and external validity of the original study. We also answer two new research questions investigating the effectiveness of CoGEE by using four additional evolutionary algorithms (i.e., IBEA, MOCell, NSGA-III, SPEA2) and a well-known Java framework for evolutionary computation, namely JMetal (rather than the previously used R software), which allows us to strengthen the external validity of the original study. The results of our replication confirm that: (1) CoGEE outperforms both baseline and state-of-the-art benchmarks statistically significantly (<inline-formula><tex-math notation="LaTeX">$p <0.001$</tex-math><alternatives><mml:math><mml:mrow><mml:mi>p</mml:mi><mml:mo><</mml:mo><mml:mn>0</mml:mn><mml:mo>.</mml:mo><mml:mn>001</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="sarro-ieq1-3083360.gif"/></alternatives></inline-formula>); (2) CoGEE’s multi-objective nature makes it able to reach such a good performance; (3) CoGEE’s estimation errors lie within claimed industrial human-expert-based thresholds. Moreover, our new results show that the effectiveness of CoGEE is generally not limited to nor dependent on the choice of the multi-objective algorithm. Using CoGEE with either NSGA-II, NSGA-III, or MOCell produces human competitive results in less than a minute. The Java version of CoGEE has decreased the running time by over 99.8 percent with respect to its R counterpart. We have made publicly available the Java code of CoGEE to ease its adoption, as well as, the data used in this study in order to allow for future replication and extension of our work.
+JO  - IEEE Transactions on Software Engineering
+TI  - Multi-Objective Software Effort Estimation: A Replication Study
+ID  - Tawosi2021
+C1  - LitmapsId 176238204
+ER  - 
+TY  - JOUR
+AU  - Sarro, Federica
+AU  - Petrozziello, Alessio
+PY  - 2018
+DA  - 2018-09-17T00:00:00Z
+DO  - 10.1145/3234940
+AB  - Software effort estimation studies still suffer from discordant empirical results (i.e., conclusion instability) mainly due to the lack of rigorous benchmarking methods. So far only one baseline model, namely, Automatically Transformed Linear Model (ATLM), has been proposed yet it has not been extensively assessed. In this article, we propose a novel method based on Linear Programming (dubbed as Linear Programming for Effort Estimation, LP4EE) and carry out a thorough empirical study to evaluate the effectiveness of both LP4EE and ATLM for benchmarking widely used effort estimation techniques. The results of our study confirm the need to benchmark every other proposal against accurate and robust baselines. They also reveal that LP4EE is more accurate than ATLM for 17% of the experiments and more robust than ATLM against different data splits and cross-validation methods for 44% of the cases. These results suggest that using LP4EE as a baseline can help reduce conclusion instability. We make publicly available an open-source implementation of LP4EE in order to facilitate its adoption in future studies.
+JO  - ACM Trans. Softw. Eng. Methodol.
+TI  - Linear Programming as a Baseline for Software Effort Estimation
+ID  - Sarro2018
+C1  - LitmapsId 42216442
+ER  - 
+TY  - BOOK
+AU  - Boehm, Barry
+PY  - 2002
+DA  - 2002-01-01T00:00:00Z
+AB  - This paper summarizes the current state of the art and recent trends in software engineering economics. It provides an overview of economic analysis techniques and their applicability to software engineering and management. It surveys the field of software cost estimation, including the major estimation techniques available, the state of the art in algorithmic cost models, and the outstanding research issues in software cost estimation.
+TI  - Software engineering economics
+ID  - Boehm2002
+C1  - LitmapsId 7435797
+ER  - 
+TY  - JOUR
+AU  - Foss, T.
+AU  - Stensrud, E.
+AU  - Kitchenham, B.
+AU  - Myrtveit, I.
+PY  - 2003
+DA  - 2003-11-01T00:00:00Z
+DO  - 10.1109/TSE.2003.1245300
+AB  - The mean magnitude of relative error, MMRE, is probably the most widely used evaluation criterion for assessing the performance of competing software prediction models. One purpose of MMRE is to assist us to select the best model. In this paper, we have performed a simulation study demonstrating that MMRE does not always select the best model. Our findings cast some doubt on the conclusions of any study of competing software prediction models that use MMRE as a basis of model comparison. We therefore recommend not using MMRE to evaluate and compare prediction models. At present, we do not have any universal replacement for MMRE. Meanwhile, we therefore recommend using a combination of theoretical justification of the models that are proposed together with other metrics proposed in this paper.
+JO  - IEEE Trans. Software Eng.
+TI  - A Simulation Study of the Model Evaluation Criterion MMRE
+ID  - Foss2003
+C1  - LitmapsId 56748518
+ER  - 
+TY  - JOUR
+AU  - Kitchenham, B.
+AU  - Pickard, L.
+AU  - MacDonell, Stephen G.
+AU  - Shepperd, M.
+PY  - 2001
+DA  - 2001-06-01T00:00:00Z
+DO  - 10.1049/IP-SEN:20010506
+AB  - Provides the software estimation research community with a better understanding of the meaning of, and relationship between, two statistics that are often used to assess the accuracy of predictive models: the mean magnitude relative error (MMRE) and the number of predictions within 25% of the actual, pred(25). It is demonstrated that MMRE and pred(25) are, respectively, measures of the spread and the kurtosis of the variable z, where z=estimate/actual. Thus, z is considered to be a measure of accuracy, and statistics such as MMRE and pred(25) to be measures of properties of the distribution of z. It is suggested that measures of the central location and skewness of z, as well as measures of spread and kurtosis, are necessary. Furthermore, since the distribution of z is non-normal, non-parametric measures of these properties may be needed. For this reason, box-plots of z are useful alternatives to simple summary metrics. It is also noted that the simple residuals are better behaved than the z variable, and could also be used as the basis for comparing prediction systems.
+JO  - IEE Proc. Softw.
+TI  - What accuracy statistics really measure
+ID  - Kitchenham2001
+C1  - LitmapsId 117453361
+ER  - 
+TY  - JOUR
+AU  - Choetkiertikul, Morakot
+AU  - Dam, Hoa Khanh
+AU  - Tran, Truyen
+AU  - Pham, Trang
+AU  - Ghose, Aditya
+AU  - Menzies, Tim
+PY  - 2019
+DA  - 2019-07-01T00:00:00Z
+DO  - 10.1109/TSE.2018.2792473
+AB  - Although there has been substantial research in software analytics for effort estimation in traditional software projects, little work has been done for estimation in agile projects, especially estimating the effort required for completing user stories or issues. Story points are the most common unit of measure used for estimating the effort involved in completing a user story or resolving an issue. In this paper, we propose a prediction model for estimating story points based on a novel combination of two powerful deep learning architectures: long short-term memory and recurrent highway network. Our prediction system is end-to-end trainable from raw input data to prediction outcomes without any manual feature engineering. We offer a comprehensive dataset for story points-based estimation that contains 23,313 issues from 16 open source projects. An empirical evaluation demonstrates that our approach consistently outperforms three common baselines (Random Guessing, Mean, and Median methods) and six alternatives (e.g., using Doc2Vec and Random Forests) in Mean Absolute Error, Median Absolute Error, and the Standardized Accuracy.
+JO  - IEEE Transactions on Software Engineering
+TI  - A Deep Learning Model for Estimating Story Points
+ID  - Choetkiertikul2019
+C1  - LitmapsId 127089508
+ER  - 
+TY  - JOUR
+AU  - Jørgensen, M.
+AU  - Shepperd, M.
+PY  - 2007
+DA  - 2007-01-01T00:00:00Z
+DO  - 10.1109/TSE.2007.256943
+AB  - This paper aims to provide a basis for the improvement of software-estimation research through a systematic review of previous work. The review identifies 304 software cost estimation papers in 76 journals and classifies the papers according to research topic, estimation approach, research approach, study context and data set. A Web-based library of these cost estimation papers is provided to ease the identification of relevant estimation research results. The review results combined with other knowledge provide support for recommendations for future software cost estimation research, including: 1) increase the breadth of the search for relevant studies, 2) search manually for relevant papers within a carefully selected set of journals when completeness is essential, 3) conduct more studies on estimation methods commonly used by the software industry, and 4) increase the awareness of how properties of the data sets impact the results when evaluating estimation methods
+JO  - IEEE Transactions on Software Engineering
+TI  - A Systematic Review of Software Development Cost Estimation Studies
+ID  - Jørgensen2007
+C1  - LitmapsId 260993474
+ER  - 
+TY  - JOUR
+AU  - Arcuri, A.
+AU  - Briand, L.
+PY  - 2011
+DA  - 2011-05-21T00:00:00Z
+DO  - 10.1145/1985793.1985795
+AB  - Randomized algorithms have been used to successfully address many different types of software engineering problems. This type of algorithms employ a degree of randomness as part of their logic. Randomized algorithms are useful for difficult problems where a precise solution cannot be derived in a deterministic way within reasonable time. However, randomized algorithms produce different results on every run when applied to the same problem instance. It is hence important to assess the effectiveness of randomized algorithms by collecting data from a large enough number of runs. The use of rigorous statistical tests is then essential to provide support to the conclusions derived by analyzing such data. In this paper, we provide a systematic review of the use of randomized algorithms in selected software engineering venues in 2009. Its goal is not to perform a complete survey but to get a representative snapshot of current practice in software engineering research. We show that randomized algorithms are used in a significant percentage of papers but that, in most cases, randomness is not properly accounted for. This casts doubts on the validity of most empirical results assessing randomized algorithms. There are numerous statistical tests, based on different assumptions, and it is not always clear when and how to use these tests. We hence provide practical guidelines to support empirical research on randomized algorithms in software engineering
+JO  - International Conference on Software Engineering
+TI  - A practical guide for using statistical tests to assess randomized algorithms in software engineering
+ID  - Arcuri2011
+C1  - LitmapsId 151641412
+ER  - 
+TY  - JOUR
+AU  - Sarro, Federica
+AU  - Petrozziello, Alessio
+AU  - Harman, M.
+PY  - 2016
+DA  - 2016-05-14T00:00:00Z
+DO  - 10.1145/2884781.2884830
+AB  - We introduce a bi-objective effort estimation algorithm that combines Confidence Interval Analysis and assessment of Mean Absolute Error. We evaluate our proposed algorithm on three different alternative formulations, baseline comparators and current state-of-the-art effort estimators applied to five real-world datasets from the PROMISE repository, involving 724 different software projects in total. The results reveal that our algorithm outperforms the baseline, state-of-the-art and all three alternative formulations, statistically significantly (p
+JO  - 2016 IEEE/ACM 38th International Conference on Software Engineering (ICSE)
+TI  - Multi-objective Software Effort Estimation
+ID  - Sarro2016
+C1  - LitmapsId 132819153
+ER  - 
